@@ -3,7 +3,8 @@
   <body>
     <h1> HELLO </h1>
     <p> I'm hosted with GITHUB pages</p>
-   <d style="background-image: url('https://www.istockphoto.com/vector/abstract-color-light-lines-background-gm1202524214-345272313');">
+   <d style="background-image: url('![image](https://user-images.githubusercontent.com/96589133/180492204-73aa2c0a-be3f-4517-a83c-fa370d4aa508.png)
+');">
     </d>
     <h2> CLOUD COMPUTING </h2>
  <img src="https://user-images.githubusercontent.com/96589133/180482720-05f5fd61-6b48-4f4f-b992-a8168c315e37.png" alt="cloud computing">
