@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html><head>
+<html>
+  <head>
 <style>
 n {
-  background-image: url('https://user-images.githubusercontent.com/96589133/180492769-1cb55356-55a0-497f-b83b-a04ac5453fb7.png');
+  background-image: url('![image](https://user-images.githubusercontent.com/96589133/180493759-9193e201-21e2-46fb-846c-ef69dd8bede7.png)
+');
 }
   </n>
 </style>
 </head>
-  <body>
+  <body>![back img](https://user-images.githubusercontent.com/96589133/180493379-11f7e903-302a-43ba-841f-036d429b71d9.jpg)
+
     <h1> HELLO </h1>
     <p> I'm hosted with GITHUB pages</p>
       <h2> CLOUD COMPUTING </h2>
@@ -22,3 +25,4 @@ n {
 <c>There are 4 main types of cloud computing: private clouds, public clouds, hybrid clouds, and multiclouds. There are also 3 main types of cloud computing services: Infrastructure-as-a-Service (IaaS), Platforms-as-a-Service (PaaS), and Software-as-a-Service (SaaS).</c>
   </body>
   </html>
+
