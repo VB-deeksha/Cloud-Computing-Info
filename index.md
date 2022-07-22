@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-
   <body>
-
-    <h1> HELLO </h1>
+     <h1> HELLO </h1>
     <p> I'm hosted with GITHUB pages</p>
       
     <h2> CLOUD COMPUTING </h2>
