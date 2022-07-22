@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html><head>
 <style>
-p {
+n {
   background-image: url('https://user-images.githubusercontent.com/96589133/180492769-1cb55356-55a0-497f-b83b-a04ac5453fb7.png');
 }
-  </p>
+  </n>
 </style>
 </head>
   <body>
@@ -15,7 +15,7 @@ p {
 
   <r> Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.</r>
  
-  <s>4 types of cloud computing :</s>
+  <m>4 types of cloud computing :</m>
     
   <img src="https://user-images.githubusercontent.com/96589133/180485299-3605ecb4-9ecd-4133-9ca3-f32b6ba3c404.png" alt="4 types">
 
