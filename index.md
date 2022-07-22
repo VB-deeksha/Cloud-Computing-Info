@@ -1,17 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html><head>
+<style>
+p {
+  background-image: url('https://user-images.githubusercontent.com/96589133/180492769-1cb55356-55a0-497f-b83b-a04ac5453fb7.png');
+}
+  </p>
+</style>
+</head>
   <body>
     <h1> HELLO </h1>
     <p> I'm hosted with GITHUB pages</p>
-   <d style="background-image: url('![image](https://user-images.githubusercontent.com/96589133/180492204-73aa2c0a-be3f-4517-a83c-fa370d4aa508.png)
-');">
-    </d>
-    <h2> CLOUD COMPUTING </h2>
+      <h2> CLOUD COMPUTING </h2>
  <img src="https://user-images.githubusercontent.com/96589133/180482720-05f5fd61-6b48-4f4f-b992-a8168c315e37.png" alt="cloud computing">
 
   <r> Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.</r>
  
-  <e>4 types of cloud computing :</e>
+  <s>4 types of cloud computing :</s>
     
   <img src="https://user-images.githubusercontent.com/96589133/180485299-3605ecb4-9ecd-4133-9ca3-f32b6ba3c404.png" alt="4 types">
 
