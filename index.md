@@ -9,7 +9,7 @@
 
   <r> Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.<br></r>
  
-  <a>4 types of cloud computing :</a>
+  <a><br>4 types of cloud computing :</a>
     
   <img src="https://user-images.githubusercontent.com/96589133/180485299-3605ecb4-9ecd-4133-9ca3-f32b6ba3c404.png" alt="4 types">
 
